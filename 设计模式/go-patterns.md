@@ -1,0 +1,5 @@
+## Factories
+
+![image-20210117122335767](go-patterns/image-20210117122335767.png)
+
+![image-20210117173826374](go-patterns/image-20210117173826374.png)
